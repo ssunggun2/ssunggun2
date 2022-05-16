@@ -1,5 +1,5 @@
 <div>
-  👋 Hi, I'm Jisu Lee.<br/><br/>
+  👋 Hi, I'm SungGeun An.<br/><br/>
 <!--   <h4> 🛠 Tech Stack</h4>
   <h5>ML/DL</h5>
   
@@ -28,6 +28,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> -->
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizzys16&show_icons=true&theme=swift)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssunggun2&show_icons=true&theme=swift)
 
 </div>
