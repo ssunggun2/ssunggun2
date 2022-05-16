@@ -29,8 +29,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> -->
   
 <!--   <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/> -->
-  <h4> 🛠 Tech Stack</h4>
-  <h5>ML/DL</h5>
+  <h4> 🛠 Tech Stack 🛠 </h4>
+  <h5>  ML/DL </h5>
   
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
