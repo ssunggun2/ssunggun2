@@ -1,5 +1,5 @@
 <div>
-  👋 Hi, I'm SungGeun An.<br/><br/>
+  # 👋 Hi, I'm SungGeun An.<br/><br/>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssunggun2&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/ssunggun2)
 <!--   <h4> 🛠 Tech Stack</h4>
@@ -31,8 +31,9 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> -->
   
 <!--   <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/> -->
-  <h4> 🛠 Tech Stack 🛠 </h4>
-  <h5>  ML/DL/NLP </h5>
+  ### 🛠 Tech Stack 🛠 
+  ####  ML/DL/NLP 
+  <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white"/>
@@ -40,7 +41,9 @@
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  </p>
   
+  ### :musical_note: GitHub Stats :musical_note:
   <br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssunggun2&show_icons=true&theme=swift)<br/>
 
 </div>
