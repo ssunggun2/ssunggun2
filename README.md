@@ -1,5 +1,4 @@
-<div>
-  #👋 Hi, I'm SungGeun An.<br/><br/>
+# 👋 Hi, I'm SungGeun An.<br/><br/>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssunggun2&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/ssunggun2)
 <!--   <h4> 🛠 Tech Stack</h4>
@@ -45,5 +44,3 @@
   
   ### :musical_note: GitHub Stats :musical_note:
   <br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssunggun2&show_icons=true&theme=swift)<br/>
-
-</div>
