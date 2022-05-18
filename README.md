@@ -1,6 +1,11 @@
 # 👋 Hi, I'm SungGeun An.<br/><br/>
   
+  
+  
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssunggun2&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/ssunggun2)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=young31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--   <h4> 🛠 Tech Stack</h4>
   <h5>ML/DL</h5>
   
@@ -29,7 +34,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> -->
   
-<!--   <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/> -->
   ### 🛠 Tech Stack 🛠 
   ####  ML/DL/NLP 
   <p align="center">
