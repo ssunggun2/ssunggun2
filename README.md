@@ -17,5 +17,5 @@
   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
     
-  ### :musical_note: GitHub Stats :musical_note:
+  ## :musical_note: GitHub Stats :musical_note:
   <br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssunggun2&show_icons=true&theme=swift)<br/>
