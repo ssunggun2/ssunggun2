@@ -2,9 +2,7 @@
 안녕하세요, 안성근입니다. 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssunggun2%2Fhit-counter&count_bg=%23A1A1A1&title_bg=%23262525&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://img.shields.io/badge/Gmail-#EA4335?style=flat-square&logo=Gmail&logoColor=white)]
-
-
+<a href="mailto:ssunggun2@snu.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?&logo=Gmail&logoColor=white&link=ssunggun2@snu.ac.kr"/></a>
 
 ## :musical_note: GitHub Stats :musical_note:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssunggun2&show_icons=true&theme=vue)
