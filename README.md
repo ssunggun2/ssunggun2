@@ -1,10 +1,13 @@
 # 👋 Hi, I'm SungGeun An
 안녕하세요, 안성근입니다. 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssunggun2&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/ssunggun2)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssunggun2%2Fhit-counter&count_bg=%23A1A1A1&title_bg=%23262525&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://img.shields.io/badge/Gmail-#EA4335?style=flat-square&logo=Gmail&logoColor=white)]
+
+
 
 ## :musical_note: GitHub Stats :musical_note:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssunggun2&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssunggun2&show_icons=true&theme=vue)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssunggun2)](https://github.com/ssungggun2/github-readme-stats)
 
