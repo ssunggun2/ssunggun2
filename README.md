@@ -1,4 +1,5 @@
 # 👋 Hi, I'm SungGeun An
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there%F0%9F%96%90&center=true)](https://git.io/typing-svg) -->
 안녕하세요, 안성근입니다. 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssunggun2%2Fhit-counter&count_bg=%23A1A1A1&title_bg=%23262525&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://github.com/ssunggun2)
