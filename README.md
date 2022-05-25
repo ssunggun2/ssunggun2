@@ -20,6 +20,6 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-F37626.svg?style=flat&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 <!-- 
-- 📒  **Fomagran's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://fomaios.tistory.com/)](https://fomaios.tistory.com/)
+- 📒 **Fomagran's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://fomaios.tistory.com/)](https://fomaios.tistory.com/)
 
 - 📺  **Fomagran's Youtube...**[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC59AeIeNUcJDoCga8cO5ENw)](https://www.youtube.com/channel/UC59AeIeNUcJDoCga8cO5ENw)      -->
