@@ -8,7 +8,7 @@
 ## :musical_note: GitHub Stats :musical_note:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssunggun2&show_icons=true&theme=vue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssunggun2)](https://github.com/ssungggun2/github-readme-stats)
+\\<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssunggun2)](https://github.com/ssungggun2/github-readme-stats)-->
 
 ## 🛠 Tech Stack 🛠 
 ###  ML/DL/NLP 
