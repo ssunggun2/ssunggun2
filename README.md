@@ -6,7 +6,7 @@
 <a href="mailto:ssunggun2@snu.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?&logo=Gmail&logoColor=white&link=ssunggun2@snu.ac.kr"/></a>
 
 ## :musical_note: GitHub Stats :musical_note:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssunggun2&show_icons=true&theme=vue&count_private=True)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssunggun2&show_icons=true&theme=vue&include_all_commits=True)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssunggun2)](https://github.com/ssungggun2/github-readme-stats)-->
 
